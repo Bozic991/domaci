@@ -23,7 +23,7 @@
         if($popust>0){
             $nova_cena=$cena -$popust;
             echo "<p class=crvena>$cena</p>";
-            echo "<p class=zelena>$nova_cena</p";
+            echo "<p class=zelena>$nova_cena</p>";
         }
         elseif($popust==0){
             echo "<p>$cena</p>";
