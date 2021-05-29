@@ -3,6 +3,9 @@
         width:200px;
         /* float: left; */
         display: inline-block;
+        margin:10px;
+        vertical-align: baseline;
+        
     }
     .crvena{
         color:red;
